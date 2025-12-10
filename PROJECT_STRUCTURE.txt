@@ -1,0 +1,13 @@
+./Core/Action.swift
+./Core/Reducer.swift
+./Core/State.swift
+./MIGRATION_GUIDE.md
+./ProductList/Product.swift
+./ProductList/ProductListAction.swift
+./ProductList/ProductListReducer.swift
+./ProductList/ProductListState.swift
+./ProductList/ProductListView.swift
+./ProductList/ProductListViewModel.swift
+./ProductList/ProductRepository.swift
+./README.md
+./Tests/ProductListReducerTests.swift
